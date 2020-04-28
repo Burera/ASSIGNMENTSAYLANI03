@@ -1,0 +1,106 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+}
+.student
+{
+    color: blueviolet;
+    padding-top: 20px;
+    
+    
+}
+.student 
+{
+    text-decoration: underline;
+}
+.wrapper
+{
+    margin-top: 20px;
+    padding-top: 40px;;
+    padding: 30px 30px 30px 30px;
+     margin-left: 60px;
+     margin-right: 60px;
+     background-color: blueviolet;
+}
+.wrapper label
+{
+    
+   width: 170px;
+   text-align: left;
+    display: inline-block;
+
+}
+input {
+    padding: 8px;
+    
+}
+
+.spacer
+{
+    margin-left: 175px;
+    padding-top: 10px;
+
+}
+#extra
+{
+    margin-left: 12px;
+}
+
+.tabless
+{
+    margin-top: 30px;
+}
+.btn
+{
+    text-align: center;
+
+}
+.btn button
+{
+    padding: 10px;
+    border-radius: 20px solid;
+}
+.btn a
+{
+    color: blueviolet;
+
+    text-decoration: none;
+    outline: none;
+    
+}
+.fa
+{
+    font-size:250px;
+    color:rgb(0, 204, 0)
+}
+.second
+{
+    margin-top: 130px;
+    text-align: center;
+    padding-top:30px;
+}
+.second h1
+{
+    color:  rgb(0, 204, 0);
+}
+.second p
+{
+    margin-top: 20px;
+    font-size: 25px;
+    color: blueviolet;
+}
+.texto
+{
+    margin-bottom: 20px;
+}
+
+.for
+{
+    margin-left: 40px;;
+}
+.panel select
+{
+    width: 70px;
+    height: 30px;
+}
